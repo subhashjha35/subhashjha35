@@ -45,5 +45,5 @@
 
 # Statistics
 ![github stats](https://github-readme-stats.vercel.app/api?username=subhashjha35&show_icons=true&line_height=30)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhashjha35&exclude_repo=getTogether)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhashjha35&exclude_repo=getTogether&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
